@@ -21,6 +21,8 @@ echo
 
 ###config username password 
 shadowsockspwd="XUdong123"
+shadowsocksport=21
+${shadowsocksport}=21
 dport="8888"
 pick=7   
 
